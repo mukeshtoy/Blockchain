@@ -1,0 +1,16 @@
+Question 1: What is your understanding of Blockchain?
+Answer : mix of technology - distributed database and cryptography
+
+Question 2: What is the core problem Blockchain trying to solve?
+Answer : Authentication, Security, Need for third party,Transparency, Decentralization
+
+Question 3: What are the few features which Blockchain will give you?
+Answer : No hacking, Verifiable, Immutable, Tamper-proof,Unchangeable
+
+Question 4: What all things does a Block contain?
+Answer : Block number, Previous block signature, Transaction records, Mining key
+
+Question 5: How is the verifiability of Blockchain has been attained?
+Answer :  First Block hash always be 0 then next block generated hash based previous block and new data. this process continuous again and again. 
+          At same time first block send data and hash to other peers first block. peer a, peer b, ...peer n, blocks also contain same data and hash.
+          if one block is cracked but others are have same data. so it can be verifiable easily.
